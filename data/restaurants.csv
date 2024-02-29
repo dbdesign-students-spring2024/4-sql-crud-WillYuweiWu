@@ -1,0 +1,1001 @@
+id,restaurant_name,category,price_tier,neighborhood,operating_hours,average_rating,good_for_kids
+1,jedmonstone0,Vietnamese,cheap,Hell's Kitchen,19:24,3.1,true
+2,lpawnsford1,Turkish,expensive,Bronx,19:03,3.4,true
+3,otrevon2,Thai,cheap,NoMad,23:12,4.5,true
+4,ddulake3,Mediterranean,medium,Lincoln Square,19:45,2.3,true
+5,ymelbert4,American,expensive,Lower East,22:39,4.0,true
+6,hgainsford5,Indian,expensive,Gramercy,22:58,4.5,false
+7,glivesey6,Caribbean,medium,Gramercy,19:32,4.8,false
+8,dpallent7,Chinese,medium,Sutton Place,22:43,1.6,false
+9,hmelvin8,Thai,medium,Murray Hill,18:14,4.1,false
+10,jsiemens9,Chinese,cheap,Noho,19:51,3.2,false
+11,lstaveleya,Spanish,medium,Morningside Heights,23:34,1.1,false
+12,bkidgellb,Italian,cheap,Little Italy,19:49,4.3,true
+13,aclacc,Mediterranean,cheap,Chinatown,19:49,2.4,true
+14,spummeryd,Thai,medium,Queens,21:31,2.9,true
+15,fraphaele,Vietnamese,medium,Midtown,18:14,3.2,true
+16,isegof,Spanish,expensive,NoMad,18:13,2.5,false
+17,jryrieg,Thai,cheap,Staten Island,21:05,3.0,false
+18,wfantinh,Greek,cheap,Queens,18:56,2.2,true
+19,hantrumi,Turkish,cheap,Morningside Heights,23:33,3.2,true
+20,mfreiburgerj,Italian,cheap,Chelsea,19:35,4.8,true
+21,ditzhayekk,Greek,medium,Financial District,21:41,5.0,true
+22,rwarmingtonl,Japanese,expensive,Harlem,19:01,2.1,false
+23,jtersaym,American,medium,Koreatown,18:57,1.6,true
+24,tmcnean,Vietnamese,cheap,Tribeca,20:16,1.4,true
+25,eflipso,Spanish,cheap,Little Italy,19:59,3.2,true
+26,menrdigop,Japanese,cheap,Midtown,18:18,4.4,false
+27,kbichenoq,Vietnamese,medium,Midtown,18:58,2.3,true
+28,adanilchevr,Thai,medium,Morningside Heights,18:19,1.5,true
+29,eleftbridges,Moroccan,cheap,Little Italy,22:55,4.8,true
+30,rpainet,Italian,medium,Tribeca,20:18,2.0,true
+31,tormanu,Indian,medium,NoMad,22:16,1.5,false
+32,zbrasteadv,Thai,medium,East Village,23:05,2.1,true
+33,acanlinw,Mediterranean,expensive,Brooklyn,21:05,4.6,true
+34,mpoatx,Indian,medium,NoMad,19:34,2.4,false
+35,bmaudliny,Moroccan,expensive,Lincoln Square,19:54,4.3,true
+36,kbensenz,Mexican,cheap,Lower East,19:15,3.8,false
+37,swenzel10,Turkish,expensive,Times Square,18:27,4.8,false
+38,itrude11,Greek,expensive,Lincoln Square,21:10,3.5,false
+39,fwildber12,French,medium,Soho,23:07,5.0,false
+40,olode13,Chinese,medium,Tribeca,22:10,1.9,false
+41,rhummerston14,American,medium,Nolita,22:20,2.3,false
+42,gdaice15,British,medium,Gramercy,21:36,2.0,true
+43,cshwalbe16,Indian,cheap,Murray Hill,22:26,4.3,true
+44,mtropman17,American,cheap,Times Square,19:26,4.9,true
+45,hmetham18,Turkish,medium,Harlem,18:50,4.0,true
+46,hfarans19,Japanese,expensive,Morningside Heights,19:54,1.1,false
+47,lemtage1a,Mexican,cheap,Gramercy,21:09,2.3,false
+48,jcongram1b,Chinese,medium,Murray Hill,23:56,2.5,true
+49,bmoulds1c,Thai,expensive,Bronx,19:29,4.3,false
+50,dhawler1d,Mexican,expensive,Harlem,21:42,2.4,true
+51,alabbet1e,Indian,expensive,Bronx,23:01,1.0,true
+52,agotfrey1f,Thai,cheap,Hell's Kitchen,20:36,1.7,true
+53,nfrarey1g,American,expensive,Nolita,19:23,1.7,true
+54,lkondratovich1h,Vietnamese,cheap,West Village,20:33,4.4,false
+55,cgeekin1i,Indian,cheap,Tribeca,21:07,3.9,false
+56,tmcbryde1j,Thai,medium,Bronx,21:26,2.0,true
+57,dbrockest1k,Caribbean,cheap,Lower East,21:29,2.9,false
+58,tblundan1l,French,medium,East Village,19:37,4.9,true
+59,soehme1m,Vietnamese,expensive,Koreatown,18:34,2.5,false
+60,cmacsherry1n,Mexican,expensive,Tribeca,18:35,4.9,true
+61,olattimore1o,Moroccan,cheap,East Village,22:47,1.5,true
+62,egoldspink1p,Greek,cheap,Sutton Place,21:45,3.0,false
+63,cpassey1q,Moroccan,cheap,Staten Island,19:12,1.1,true
+64,leykelbosch1r,Japanese,cheap,Times Square,21:07,3.9,false
+65,ihambribe1s,Vietnamese,expensive,Midtown,22:07,3.2,true
+66,fdur1t,Caribbean,medium,Tribeca,22:42,2.7,true
+67,ncoo1u,Indian,cheap,Lower East,22:07,4.2,true
+68,qpagelsen1v,Turkish,cheap,Gramercy,18:50,2.7,true
+69,hciubutaro1w,Indian,expensive,Hell's Kitchen,18:09,3.8,false
+70,ofetherston1x,Indian,medium,East Village,19:10,3.4,false
+71,lcadwell1y,Caribbean,cheap,Financial District,18:42,4.5,false
+72,soxborough1z,Chinese,cheap,Bronx,19:49,1.1,true
+73,lrudeyeard20,Chinese,cheap,Tribeca,19:34,1.3,false
+74,sanespie21,Spanish,expensive,Lower East,18:57,2.7,true
+75,eblown22,Caribbean,cheap,Queens,22:04,1.4,true
+76,fwalsh23,Vietnamese,expensive,Harlem,19:53,3.1,true
+77,cagass24,Mexican,cheap,Gramercy,20:01,3.9,true
+78,cdewbury25,Spanish,medium,Tribeca,19:53,2.6,false
+79,hguinery26,French,expensive,NoMad,18:49,3.7,false
+80,hwheatley27,Mexican,medium,West Village,18:50,3.2,false
+81,wfateley28,Turkish,medium,West Village,23:44,1.6,true
+82,abillborough29,Chinese,expensive,Sutton Place,19:12,4.9,false
+83,fpigott2a,Caribbean,expensive,Koreatown,22:45,2.0,false
+84,fmeeson2b,American,expensive,Financial District,22:57,3.5,false
+85,ggrzelewski2c,Moroccan,expensive,Greenwich Village,20:18,4.9,true
+86,gdumphries2d,Japanese,expensive,Tribeca,18:04,3.6,false
+87,olabrow2e,Vietnamese,cheap,Lower East,23:46,4.5,false
+88,lpaget2f,Mediterranean,expensive,Harlem,21:44,4.0,false
+89,slebell2g,Turkish,medium,Upper West,19:24,4.1,true
+90,swhate2h,Indian,expensive,Lower East,19:08,2.7,true
+91,jgrasha2i,Moroccan,medium,Morningside Heights,22:37,2.3,true
+92,ttudor2j,Mexican,medium,Queens,23:15,3.6,true
+93,mpoor2k,Greek,expensive,Nolita,20:10,1.1,true
+94,mkase2l,Indian,cheap,Nolita,18:28,1.0,false
+95,uloakes2m,Thai,cheap,Tribeca,22:38,1.3,true
+96,hschmidt2n,French,cheap,Staten Island,23:45,3.9,true
+97,aatto2o,British,expensive,Little Italy,22:42,3.8,true
+98,hromao2p,Indian,medium,Sutton Place,21:20,1.8,true
+99,bdomleo2q,Japanese,medium,Bronx,20:53,3.9,false
+100,etaveriner2r,Chinese,medium,East Village,21:15,2.8,false
+101,blutz2s,Japanese,cheap,Greenwich Village,18:41,4.3,true
+102,singamells2t,Thai,expensive,West Village,23:09,3.7,false
+103,jmcquillen2u,Indian,medium,East Village,23:44,1.9,true
+104,fmanntschke2v,British,cheap,Staten Island,19:36,1.5,false
+105,cavramov2w,Italian,medium,Queens,21:56,3.6,true
+106,kbriand2x,Turkish,medium,West Village,20:59,1.4,false
+107,tfleg2y,Japanese,medium,Queens,22:00,5.0,false
+108,jsimonou2z,American,cheap,Financial District,19:48,2.5,false
+109,ghane30,Indian,cheap,Morningside Heights,22:07,3.2,true
+110,lbehagg31,Italian,expensive,Hell's Kitchen,18:47,2.4,false
+111,rchesley32,Chinese,medium,NoMad,18:56,1.2,false
+112,mnorley33,American,cheap,Nolita,21:28,4.3,false
+113,mhillett34,Spanish,medium,Tribeca,22:43,4.0,true
+114,byounger35,American,expensive,Murray Hill,21:12,2.7,false
+115,lthrift36,Chinese,expensive,Midtown,21:49,2.3,true
+116,lwevell37,Italian,cheap,Chinatown,21:40,2.0,false
+117,aplowright38,Thai,expensive,Queens,22:35,1.3,false
+118,kengall39,French,cheap,Gramercy,22:58,2.0,false
+119,dcridlan3a,Italian,expensive,Harlem,21:44,3.6,true
+120,gpincott3b,French,expensive,Morningside Heights,22:56,3.9,true
+121,gbrownhill3c,Indian,medium,Murray Hill,18:13,3.3,false
+122,adesantos3d,Moroccan,cheap,Sutton Place,19:03,1.1,true
+123,mmuzzollo3e,Vietnamese,expensive,West Village,18:49,1.4,true
+124,dvitall3f,American,medium,Bronx,21:02,3.0,true
+125,wwickwar3g,Vietnamese,medium,NoMad,22:41,2.8,true
+126,arobard3h,Indian,cheap,Financial District,20:18,4.7,true
+127,menderle3i,Moroccan,medium,Upper East,23:31,3.5,true
+128,kcanland3j,American,cheap,Greenwich Village,19:37,2.7,true
+129,dskehens3k,Indian,cheap,NoMad,23:46,4.7,true
+130,mparsonson3l,Mediterranean,medium,Queens,22:40,4.0,true
+131,lquarry3m,Chinese,medium,Chinatown,19:53,2.4,true
+132,ckinworthy3n,French,cheap,Koreatown,18:48,3.7,true
+133,amanvelle3o,Turkish,expensive,Greenwich Village,21:10,1.9,false
+134,scowpertwait3p,Thai,cheap,Upper West,20:30,2.2,false
+135,fsurman3q,Mediterranean,medium,Times Square,19:24,2.0,false
+136,etack3r,Chinese,cheap,Upper East,23:17,1.8,false
+137,cbraycotton3s,Moroccan,cheap,Chelsea,23:17,1.2,false
+138,ngiacoboni3t,Chinese,cheap,Sutton Place,20:33,4.5,true
+139,msuter3u,Spanish,medium,Lower East,19:28,4.8,true
+140,ldouthwaite3v,Moroccan,cheap,Lower East,23:54,1.8,true
+141,arennocks3w,Spanish,expensive,West Village,22:19,4.5,true
+142,bmartyntsev3x,Chinese,expensive,Soho,19:29,4.0,true
+143,zastlett3y,Mexican,cheap,Nolita,19:56,3.5,true
+144,enilges3z,Moroccan,medium,Chinatown,20:38,2.6,false
+145,mtuttle40,British,medium,Lincoln Square,22:59,1.9,false
+146,cdashkov41,Greek,expensive,Upper East,22:33,2.1,false
+147,qpitcock42,Spanish,cheap,Bronx,23:29,4.5,true
+148,laxford43,British,cheap,Noho,21:04,4.2,true
+149,lborrett44,Mexican,expensive,Morningside Heights,22:37,3.7,false
+150,esurgen45,Thai,cheap,Sutton Place,22:18,4.8,false
+151,sgresley46,Thai,medium,East Village,19:28,2.6,false
+152,lbarge47,Moroccan,medium,Murray Hill,23:44,3.4,false
+153,dgiles48,Vietnamese,cheap,Upper East,23:09,1.8,true
+154,pdelayglesias49,Moroccan,cheap,Hell's Kitchen,21:21,3.3,true
+155,skarpf4a,Spanish,cheap,Noho,22:38,1.0,false
+156,hfrenzel4b,Chinese,expensive,Little Italy,19:17,1.5,true
+157,csaterweyte4c,Italian,medium,Staten Island,20:58,1.7,true
+158,whardwidge4d,Vietnamese,medium,Hell's Kitchen,23:06,2.6,false
+159,skaygill4e,Japanese,cheap,Chelsea,23:29,3.9,false
+160,cfilppetti4f,Indian,expensive,Lincoln Square,18:51,1.1,false
+161,msallows4g,American,medium,Upper East,23:48,1.6,false
+162,rscattergood4h,Greek,cheap,Nolita,19:33,4.0,true
+163,gscholler4i,Greek,medium,Staten Island,22:20,1.7,true
+164,mmcmaster4j,Turkish,cheap,Midtown,23:32,4.5,true
+165,wwozencroft4k,Indian,expensive,Soho,23:57,3.2,true
+166,mbirchall4l,Indian,cheap,Bronx,19:05,3.7,true
+167,tmobberley4m,Indian,expensive,Midtown,21:05,2.6,false
+168,mranvoise4n,French,cheap,Little Italy,23:11,4.2,true
+169,hhowerd4o,Vietnamese,medium,Lower East,19:32,1.9,true
+170,vhouselee4p,Mexican,expensive,Chelsea,20:08,1.6,true
+171,ssieghart4q,Greek,medium,Greenwich Village,21:04,2.2,true
+172,mlast4r,Vietnamese,expensive,Little Italy,19:44,1.9,false
+173,gattree4s,British,cheap,Chinatown,19:41,2.3,true
+174,amettricke4t,Greek,cheap,Murray Hill,18:43,5.0,true
+175,glermouth4u,British,medium,Murray Hill,18:57,4.1,true
+176,kadam4v,Indian,cheap,Chinatown,20:37,3.0,false
+177,dtonn4w,Moroccan,cheap,Staten Island,18:53,1.0,false
+178,lsheirlaw4x,Spanish,expensive,East Village,23:19,2.0,false
+179,mrisborough4y,Italian,medium,Gramercy,20:26,4.2,true
+180,ecannell4z,Greek,medium,Tribeca,20:19,1.2,true
+181,rgoodnow50,American,medium,Koreatown,22:19,1.5,false
+182,hkidman51,Caribbean,medium,Nolita,18:54,4.3,true
+183,gflieg52,Moroccan,medium,Tribeca,18:45,3.2,false
+184,sclousley53,French,expensive,Midtown,23:55,1.3,false
+185,ahasley54,Chinese,cheap,Times Square,19:09,1.4,true
+186,mshevlan55,Spanish,medium,Harlem,21:39,3.4,false
+187,ccasewell56,Caribbean,cheap,NoMad,18:19,1.6,false
+188,sprosek57,Mexican,cheap,Bronx,18:54,3.5,false
+189,craison58,Thai,medium,Times Square,20:03,1.6,true
+190,lkrimmer59,British,medium,Chelsea,20:08,1.9,false
+191,fatty5a,Italian,cheap,Staten Island,18:25,1.3,false
+192,tcrippell5b,Greek,cheap,Noho,22:40,4.2,true
+193,cgerb5c,Mexican,medium,Financial District,23:44,2.8,true
+194,awhacket5d,Caribbean,expensive,Koreatown,22:32,2.1,false
+195,ghandaside5e,Japanese,cheap,Murray Hill,21:33,4.3,false
+196,tbier5f,Mediterranean,expensive,Sutton Place,19:21,2.4,false
+197,rantram5g,Caribbean,expensive,Upper West,19:14,4.4,true
+198,tgooddy5h,Mediterranean,cheap,East Village,19:01,3.5,false
+199,briggs5i,Italian,cheap,Koreatown,19:22,4.1,false
+200,bdantesia5j,Moroccan,medium,Sutton Place,22:44,2.0,true
+201,bkrysztowczyk5k,Spanish,expensive,Soho,18:38,2.9,true
+202,bberceros5l,Indian,medium,Soho,22:48,2.4,false
+203,sspringell5m,French,expensive,East Village,20:20,3.3,true
+204,eswiggs5n,Turkish,cheap,Little Italy,18:43,1.4,false
+205,acruess5o,Chinese,medium,Chinatown,23:52,3.7,true
+206,wlegall5p,Vietnamese,cheap,Times Square,21:16,3.9,false
+207,dgrunder5q,Italian,expensive,Queens,23:56,1.3,true
+208,aburgot5r,Mediterranean,expensive,Morningside Heights,19:16,3.8,true
+209,jducarne5s,Vietnamese,expensive,Nolita,20:14,3.6,true
+210,jbrownsell5t,Thai,cheap,Times Square,22:46,1.3,true
+211,dthickin5u,Japanese,expensive,Sutton Place,20:11,1.3,true
+212,osaleway5v,Greek,medium,Upper East,19:19,2.2,false
+213,vierland5w,Mediterranean,medium,Koreatown,21:20,3.5,false
+214,bmoye5x,Spanish,cheap,Staten Island,22:27,5.0,false
+215,mbarney5y,Moroccan,cheap,Lower East,18:36,2.5,true
+216,fgwilt5z,Mediterranean,medium,Midtown,18:25,4.4,false
+217,ksommerscales60,Caribbean,medium,Gramercy,22:58,4.6,true
+218,chuston61,Chinese,cheap,East Village,22:17,3.9,false
+219,tedensor62,Italian,expensive,NoMad,23:33,3.6,false
+220,aalday63,Mexican,cheap,Morningside Heights,18:55,4.3,true
+221,ebignall64,Italian,expensive,Midtown,20:17,4.3,false
+222,figlesia65,French,cheap,Lower East,21:14,2.9,false
+223,aticic66,Indian,expensive,Koreatown,18:42,4.8,true
+224,growden67,Moroccan,medium,Upper West,22:09,1.3,true
+225,plavies68,Moroccan,medium,West Village,19:07,1.8,true
+226,aatherton69,British,medium,Chelsea,20:46,1.1,true
+227,mbristow6a,Greek,expensive,Bronx,21:24,4.0,true
+228,mprate6b,British,expensive,Greenwich Village,20:44,2.9,false
+229,hraddon6c,French,medium,Gramercy,18:17,4.1,false
+230,mbeers6d,Mediterranean,medium,Soho,21:09,3.0,false
+231,jpoyntz6e,Chinese,cheap,Nolita,23:47,2.5,true
+232,dmontague6f,American,expensive,Lower East,23:48,4.4,false
+233,vcomfort6g,Turkish,cheap,Gramercy,21:32,1.5,true
+234,vgarrood6h,French,medium,Harlem,22:22,2.5,true
+235,jdanford6i,Mediterranean,medium,Sutton Place,23:39,3.5,false
+236,ifarrears6j,Spanish,expensive,Upper West,22:43,2.5,true
+237,aolerenshaw6k,Greek,cheap,Staten Island,19:40,3.9,false
+238,gturneaux6l,Caribbean,expensive,Upper West,19:56,3.4,false
+239,emenendez6m,Turkish,medium,Staten Island,21:07,1.5,false
+240,jjenik6n,Thai,expensive,Bronx,20:27,3.0,true
+241,lgouldthorpe6o,Mexican,expensive,Koreatown,22:16,2.5,true
+242,drechert6p,French,expensive,Morningside Heights,18:54,3.7,false
+243,tmacnalley6q,Thai,medium,Koreatown,21:26,4.6,true
+244,dchina6r,Japanese,medium,Upper West,18:03,4.7,true
+245,tmckune6s,Turkish,cheap,West Village,21:38,1.5,true
+246,ggunton6t,Caribbean,medium,Staten Island,19:06,3.2,false
+247,owickes6u,Indian,expensive,Brooklyn,18:11,2.5,false
+248,apaxman6v,Mediterranean,expensive,Tribeca,21:27,1.2,true
+249,ctrower6w,Moroccan,cheap,Morningside Heights,21:11,1.2,true
+250,atiffany6x,Italian,cheap,Upper East,18:03,2.8,true
+251,vskepper6y,Vietnamese,medium,Koreatown,23:29,3.0,true
+252,cdeerr6z,British,medium,Chelsea,19:47,4.9,true
+253,sbellanger70,British,medium,Chinatown,18:17,3.7,true
+254,bbrotheridge71,Spanish,cheap,Queens,19:39,1.2,true
+255,nheddan72,Mediterranean,expensive,Upper West,21:05,1.8,true
+256,smelladew73,Japanese,expensive,Upper West,21:24,1.4,false
+257,bdawidowitsch74,Turkish,cheap,Staten Island,18:18,3.4,false
+258,kredmore75,Japanese,medium,Bronx,20:04,4.8,false
+259,msmithers76,Vietnamese,cheap,Nolita,20:53,1.5,true
+260,cvouls77,Chinese,cheap,Harlem,19:45,3.7,true
+261,casey78,Spanish,medium,Brooklyn,23:02,4.3,true
+262,jtrude79,Thai,expensive,Chinatown,23:13,4.9,true
+263,achase7a,Mexican,expensive,Lower East,18:43,3.3,false
+264,iabbis7b,Mexican,cheap,Upper East,20:23,2.8,true
+265,ilembrick7c,American,expensive,Midtown,20:11,2.0,true
+266,akilgallen7d,Spanish,cheap,Tribeca,22:56,4.1,false
+267,mwildblood7e,Thai,expensive,Financial District,23:24,3.4,true
+268,mblackadder7f,American,cheap,Tribeca,18:50,3.4,true
+269,dcosker7g,Mediterranean,medium,West Village,23:47,2.1,false
+270,vdellcasa7h,French,medium,Hell's Kitchen,21:05,4.6,true
+271,cbyrkmyr7i,Thai,expensive,Greenwich Village,20:58,4.7,true
+272,mdunning7j,Moroccan,expensive,Sutton Place,20:11,1.1,false
+273,fcuruclis7k,Mediterranean,medium,Hell's Kitchen,18:17,4.4,true
+274,mhickinbottom7l,Turkish,medium,Hell's Kitchen,23:16,1.3,true
+275,ddufaire7m,Turkish,medium,Staten Island,20:40,4.8,false
+276,sdefew7n,Italian,cheap,Tribeca,22:44,3.9,false
+277,fdzenisenka7o,Thai,cheap,Chinatown,22:08,3.7,true
+278,gandrelli7p,Turkish,medium,Lincoln Square,21:32,1.9,false
+279,bmcanellye7q,Turkish,cheap,Upper West,19:50,3.8,true
+280,blehrian7r,Japanese,expensive,Brooklyn,18:33,2.5,true
+281,ktheis7s,Japanese,cheap,Noho,22:35,3.2,true
+282,bdent7t,Mediterranean,medium,Noho,18:30,4.4,false
+283,tsoftley7u,Italian,medium,Brooklyn,23:48,3.0,false
+284,dduchart7v,Japanese,cheap,Chelsea,20:36,1.8,true
+285,apawelec7w,Turkish,cheap,Morningside Heights,22:46,2.2,true
+286,egianolini7x,American,cheap,Nolita,21:48,4.9,true
+287,hbodega7y,Chinese,medium,Lower East,22:13,1.9,false
+288,efollis7z,British,expensive,Gramercy,20:36,1.4,false
+289,jhandlin80,Greek,medium,Bronx,23:43,3.6,true
+290,bdittson81,Mexican,cheap,Queens,21:02,4.3,true
+291,ostovine82,Mexican,expensive,East Village,20:10,4.4,true
+292,psturney83,Italian,expensive,Financial District,23:40,1.8,true
+293,cvivers84,Turkish,medium,Noho,21:30,1.5,false
+294,dconiff85,Japanese,cheap,East Village,22:46,2.0,true
+295,achadwen86,Italian,cheap,East Village,23:37,1.4,true
+296,zsyce87,Greek,medium,Harlem,20:00,1.4,true
+297,lschuster88,Mexican,cheap,Morningside Heights,21:22,3.1,false
+298,skeepin89,Caribbean,expensive,Bronx,19:10,2.3,true
+299,rpurveys8a,British,expensive,Chinatown,19:17,2.6,true
+300,tsturdgess8b,Spanish,cheap,Tribeca,21:16,1.1,false
+301,jwoolmore8c,British,medium,Nolita,22:31,2.8,false
+302,gduffield8d,Turkish,expensive,Staten Island,18:27,1.1,true
+303,tmacalister8e,Vietnamese,medium,Morningside Heights,18:46,4.5,false
+304,btyler8f,Spanish,medium,Gramercy,20:43,1.5,false
+305,wmccuis8g,Vietnamese,medium,Staten Island,19:25,2.3,true
+306,afeaviour8h,Japanese,expensive,Midtown,20:53,4.5,false
+307,gcantle8i,Caribbean,medium,NoMad,20:46,4.6,false
+308,lhorsell8j,Indian,expensive,Hell's Kitchen,20:27,3.7,true
+309,dmarin8k,Caribbean,cheap,Times Square,20:36,3.9,false
+310,rclemmitt8l,Indian,medium,Sutton Place,22:55,1.9,false
+311,ggoodright8m,Japanese,medium,Bronx,21:31,2.0,true
+312,mneave8n,Mediterranean,expensive,Koreatown,22:04,3.7,false
+313,holerenshaw8o,Spanish,cheap,Midtown,19:50,1.1,true
+314,ymahon8p,Japanese,cheap,Morningside Heights,19:23,2.7,false
+315,awitcherley8q,Caribbean,cheap,Queens,22:16,4.2,false
+316,spawelek8r,Indian,medium,Lower East,19:23,1.7,true
+317,umattersley8s,French,cheap,Murray Hill,23:28,3.7,false
+318,gwaye8t,Japanese,medium,Koreatown,21:37,1.7,true
+319,asneden8u,Vietnamese,medium,Times Square,20:44,2.7,false
+320,pdulake8v,Turkish,cheap,NoMad,20:49,1.3,true
+321,sreveley8w,French,cheap,Gramercy,23:43,3.7,true
+322,bbosch8x,Mediterranean,cheap,Hell's Kitchen,18:28,3.2,true
+323,bsmitton8y,Mediterranean,cheap,Noho,22:02,2.6,false
+324,amchan8z,Caribbean,expensive,Brooklyn,19:47,4.5,true
+325,speaurt90,Caribbean,cheap,Chinatown,21:55,2.7,false
+326,cgalpen91,Caribbean,medium,Murray Hill,23:02,4.2,true
+327,pupward92,Greek,expensive,Upper East,20:01,3.3,false
+328,lruscoe93,American,cheap,Tribeca,19:09,2.4,false
+329,bhavill94,Caribbean,expensive,Upper West,19:08,3.3,true
+330,bstocker95,Mediterranean,expensive,Brooklyn,21:54,2.1,false
+331,gghilardi96,British,medium,Financial District,22:51,3.9,true
+332,maimable97,Vietnamese,expensive,West Village,19:21,1.8,true
+333,egeorgievski98,Moroccan,cheap,Tribeca,22:55,4.3,true
+334,mcockren99,Mexican,medium,Tribeca,23:56,3.1,false
+335,ayakutin9a,Mediterranean,cheap,East Village,20:23,4.9,true
+336,mrittelmeyer9b,Mexican,cheap,Murray Hill,18:44,2.8,false
+337,aphilpot9c,Spanish,cheap,Sutton Place,22:47,1.0,true
+338,cmiche9d,British,medium,Tribeca,23:12,3.9,true
+339,aounsworth9e,Turkish,medium,Harlem,20:27,3.6,true
+340,qpauly9f,British,medium,Staten Island,18:27,4.6,false
+341,tblunsen9g,French,expensive,Noho,19:25,3.7,true
+342,fbriereton9h,French,cheap,Little Italy,23:53,1.1,false
+343,eottawell9i,Mexican,cheap,Soho,20:23,3.7,true
+344,fhonatsch9j,Chinese,medium,Hell's Kitchen,18:07,2.0,true
+345,dmcclary9k,Thai,cheap,Koreatown,22:17,1.6,false
+346,dbowler9l,Japanese,expensive,Sutton Place,22:48,4.8,true
+347,rmoorcraft9m,Chinese,medium,Brooklyn,23:28,4.0,true
+348,fivins9n,American,cheap,NoMad,19:39,2.8,true
+349,mallom9o,Vietnamese,medium,Chelsea,18:36,2.5,false
+350,jsaffer9p,Caribbean,cheap,Bronx,20:33,1.1,false
+351,csanz9q,Turkish,expensive,Upper West,19:43,3.4,false
+352,theintsch9r,Mediterranean,expensive,Midtown,21:27,3.7,true
+353,msaffrin9s,Moroccan,cheap,Tribeca,21:28,2.6,true
+354,dvonhagt9t,Mexican,expensive,Soho,21:15,3.4,false
+355,dvasler9u,Mediterranean,cheap,Morningside Heights,18:28,2.5,false
+356,qsanford9v,Italian,expensive,Upper West,23:40,2.2,false
+357,jburgan9w,Mediterranean,expensive,Bronx,20:27,2.6,true
+358,kdoull9x,Caribbean,expensive,Midtown,22:28,3.5,false
+359,nnears9y,Italian,cheap,East Village,18:58,4.9,false
+360,mfoster9z,Mexican,expensive,Financial District,23:16,2.0,false
+361,hgorinia0,Greek,medium,Little Italy,19:44,2.9,true
+362,epuckera1,Mexican,medium,Harlem,19:39,2.8,true
+363,tmunceya2,Turkish,medium,Queens,23:20,2.9,true
+364,fmatthewmana3,Spanish,cheap,Harlem,23:38,4.9,true
+365,cdorsaya4,Mediterranean,expensive,Midtown,21:45,3.2,true
+366,pracea5,Italian,medium,Koreatown,19:08,4.1,false
+367,cstelljesa6,Vietnamese,expensive,Soho,22:14,4.3,false
+368,hraatza7,Greek,medium,Gramercy,23:50,1.3,false
+369,eruslingea8,Chinese,expensive,Soho,23:51,1.9,true
+370,pballintimea9,Mexican,medium,Upper East,18:18,5.0,true
+371,hclyburnaa,Spanish,cheap,Midtown,20:16,3.9,true
+372,kstrelitzkiab,Japanese,expensive,Koreatown,18:24,4.9,true
+373,tbrotherhedac,Turkish,expensive,Chelsea,21:22,3.5,true
+374,acromackad,American,expensive,Morningside Heights,22:18,4.8,true
+375,fbridgstockae,Vietnamese,cheap,Financial District,23:15,4.4,false
+376,ssaleryaf,Caribbean,cheap,Sutton Place,22:26,2.4,false
+377,fshieldsag,Mexican,cheap,Noho,20:10,1.8,true
+378,kzinckeah,Thai,expensive,Chelsea,23:03,1.2,false
+379,smaskallai,British,medium,East Village,18:35,1.7,false
+380,oranaldaj,Japanese,medium,Chinatown,19:14,2.7,true
+381,jandrichukak,Mediterranean,cheap,West Village,21:50,2.6,true
+382,irosettial,Moroccan,expensive,Staten Island,22:58,4.6,true
+383,pbernardyam,Indian,cheap,Noho,22:38,1.8,true
+384,mbrimilcomean,American,expensive,Greenwich Village,21:59,4.2,true
+385,sschopsao,Mediterranean,cheap,Nolita,20:53,2.5,true
+386,dmobiusap,Mediterranean,cheap,Hell's Kitchen,18:57,4.1,false
+387,estubbinaq,Vietnamese,expensive,Soho,20:37,4.0,false
+388,btaillar,French,medium,Hell's Kitchen,21:16,1.0,false
+389,aupsonas,Turkish,cheap,Koreatown,23:06,4.3,true
+390,apriddingat,Mexican,medium,Times Square,21:44,1.8,false
+391,lpleumanau,Thai,expensive,Koreatown,21:46,2.9,true
+392,gpasseav,Vietnamese,expensive,Nolita,22:09,1.2,false
+393,mstredderaw,Mediterranean,cheap,Times Square,18:48,2.5,false
+394,cjanwayax,Thai,expensive,Upper East,18:10,4.4,false
+395,rwoodyeareay,Mexican,expensive,Noho,21:10,4.6,false
+396,vcushaz,Italian,cheap,Soho,18:46,2.7,false
+397,lspaxmanb0,Indian,cheap,Soho,18:06,2.7,false
+398,aapsb1,Mexican,medium,Chelsea,19:01,3.8,true
+399,mpigromeb2,British,medium,Brooklyn,19:26,1.5,true
+400,rmcteagueb3,Thai,medium,East Village,23:41,3.7,true
+401,mgarrawayb4,Greek,cheap,Upper West,22:39,1.0,true
+402,adahlborgb5,American,cheap,Bronx,22:24,2.7,false
+403,scossonb6,Mexican,expensive,Lincoln Square,18:07,4.7,false
+404,gcoldbatheb7,Indian,expensive,Hell's Kitchen,22:36,1.6,true
+405,afairbanksb8,Vietnamese,medium,Gramercy,23:04,4.1,false
+406,tweatherburnb9,Japanese,medium,Chelsea,21:12,3.9,true
+407,kloadmanba,Caribbean,cheap,Brooklyn,23:16,1.3,true
+408,npennaccibb,Vietnamese,expensive,Morningside Heights,23:13,1.5,true
+409,ccantlebc,Spanish,cheap,Greenwich Village,23:40,3.5,true
+410,lcrowcumbd,American,medium,Brooklyn,23:13,1.4,true
+411,tapsbe,Moroccan,expensive,Tribeca,23:51,4.4,true
+412,jbruhkebf,Italian,cheap,Financial District,19:11,3.8,false
+413,pcantillionbg,Chinese,medium,Harlem,23:40,2.3,true
+414,amasserbh,Chinese,cheap,Upper West,21:56,4.6,false
+415,lspencleybi,Indian,expensive,Greenwich Village,22:59,4.7,true
+416,echeleybj,Turkish,cheap,Tribeca,21:37,2.6,true
+417,ikunklerbk,Moroccan,expensive,Times Square,23:01,4.0,false
+418,sgandrichbl,Moroccan,medium,Midtown,21:17,3.8,false
+419,jbleddonbm,Greek,cheap,NoMad,23:29,2.0,true
+420,acoldrickbn,Moroccan,medium,Morningside Heights,22:43,3.5,true
+421,kjessupbo,Indian,medium,East Village,20:04,3.8,true
+422,jcastanonebp,Thai,medium,Upper East,19:32,2.7,true
+423,frichlybq,Thai,cheap,Harlem,23:13,4.5,true
+424,kpenningsbr,Turkish,medium,Staten Island,19:28,5.0,true
+425,birvinbs,French,expensive,Chinatown,18:15,1.7,true
+426,tgallallybt,American,medium,Nolita,22:42,3.9,true
+427,jbrydsonbu,Mexican,expensive,Greenwich Village,19:34,2.0,true
+428,ffenckbv,Caribbean,medium,Staten Island,21:08,2.7,false
+429,dcarletbw,British,cheap,Tribeca,23:43,3.9,false
+430,jcrannellbx,Thai,expensive,Times Square,20:44,4.3,true
+431,tcreminby,Caribbean,medium,Midtown,23:34,4.6,false
+432,kgehrtzbz,Italian,cheap,Upper West,19:19,4.9,true
+433,pjahnckec0,Chinese,expensive,Midtown,19:28,1.1,false
+434,csimpolec1,French,expensive,Staten Island,21:14,2.5,true
+435,aligoec2,Japanese,medium,Tribeca,23:23,1.5,true
+436,wbunnc3,British,medium,Bronx,19:30,1.8,true
+437,dwanellc4,Mexican,cheap,Lower East,23:51,3.8,true
+438,lairetonc5,Japanese,expensive,East Village,22:46,2.6,true
+439,trignoldesc6,Italian,cheap,Upper East,18:55,2.6,true
+440,chaythc7,Vietnamese,cheap,Koreatown,20:05,1.4,true
+441,vflaniganc8,Chinese,expensive,Noho,19:55,3.7,true
+442,gmaccaguec9,Mexican,medium,Sutton Place,22:40,2.0,true
+443,cplowellca,Thai,cheap,Gramercy,22:41,1.5,true
+444,tpockettcb,Greek,cheap,Gramercy,20:37,1.2,false
+445,tbedincc,American,expensive,Financial District,23:11,3.9,true
+446,cswitlandcd,Turkish,medium,Brooklyn,23:30,4.2,true
+447,msaurace,Italian,cheap,Greenwich Village,22:17,1.0,false
+448,pshubothamcf,Moroccan,expensive,Brooklyn,19:31,3.6,true
+449,lkeelingecg,Vietnamese,cheap,West Village,20:35,4.6,true
+450,rdyettch,Turkish,medium,Chelsea,21:44,2.8,true
+451,bbayfieldci,Caribbean,cheap,Koreatown,21:34,3.4,true
+452,hchaimsoncj,Japanese,medium,Bronx,19:54,1.2,true
+453,tfirbanksck,Turkish,medium,Harlem,19:10,3.2,true
+454,gpullarcl,Mexican,cheap,Lincoln Square,18:45,1.4,true
+455,crowaszkiewiczcm,Thai,cheap,NoMad,22:07,4.4,true
+456,zspeightcn,British,expensive,Morningside Heights,21:41,1.7,false
+457,alyfeco,Spanish,cheap,Midtown,20:32,4.9,false
+458,clibbeycp,Moroccan,cheap,Upper East,22:36,2.2,true
+459,evolkercq,Chinese,expensive,Harlem,22:53,3.6,true
+460,rembureycr,Japanese,expensive,Gramercy,21:44,4.4,false
+461,gascoughcs,Greek,cheap,Hell's Kitchen,21:30,5.0,true
+462,arallsct,American,medium,Chinatown,23:15,1.1,false
+463,phampsteadcu,Vietnamese,expensive,Chinatown,22:18,4.9,true
+464,sthurlbeckcv,French,medium,Sutton Place,19:00,3.7,false
+465,sodonegancw,Vietnamese,cheap,Little Italy,18:54,3.3,true
+466,fkobschcx,French,expensive,Hell's Kitchen,21:12,1.8,true
+467,vbourgeoiscy,Japanese,cheap,Times Square,23:23,2.7,true
+468,lpervoecz,Thai,medium,Midtown,21:03,3.0,false
+469,frobardetd0,French,cheap,Lower East,19:04,4.3,true
+470,cedgsond1,American,expensive,Midtown,21:31,1.7,false
+471,icapelingd2,Chinese,expensive,Greenwich Village,21:51,4.2,true
+472,vberthotd3,French,medium,Chinatown,22:42,3.9,true
+473,amaased4,American,expensive,Gramercy,23:29,1.1,true
+474,ckaleyd5,British,expensive,Noho,18:04,3.5,false
+475,amartignond6,Italian,expensive,East Village,21:06,1.7,false
+476,dalejandrid7,Vietnamese,medium,Lincoln Square,18:02,1.0,false
+477,bbated8,Indian,cheap,Chinatown,20:37,2.4,true
+478,bbenoixd9,Turkish,cheap,Morningside Heights,20:56,1.9,true
+479,rcracieda,Mexican,medium,Bronx,19:29,2.2,false
+480,cgimenodb,Mexican,cheap,Financial District,18:38,4.2,true
+481,fburcharddc,Spanish,cheap,Chinatown,21:20,2.7,true
+482,bgittinsdd,Moroccan,cheap,Morningside Heights,20:55,2.2,false
+483,pjosovitzde,Japanese,medium,Queens,23:19,3.1,true
+484,hjoubertdf,Moroccan,medium,Lincoln Square,21:01,1.2,false
+485,akleinfelddg,Moroccan,expensive,Koreatown,21:27,2.8,true
+486,lnewlandsdh,British,cheap,Brooklyn,23:20,1.1,true
+487,ldenyerdi,Mediterranean,expensive,Gramercy,18:47,2.2,false
+488,mbreacherdj,Turkish,cheap,Financial District,23:29,4.6,true
+489,ahellerdk,Turkish,expensive,East Village,19:57,3.4,false
+490,nrowselldl,Vietnamese,cheap,Nolita,19:10,1.4,true
+491,cstaveleydm,American,cheap,Upper West,18:56,3.5,true
+492,rpriscottdn,Italian,cheap,Hell's Kitchen,19:53,2.0,false
+493,tvidlocdo,Mexican,expensive,Koreatown,18:58,3.4,false
+494,wglenndp,Japanese,expensive,Lower East,19:57,1.2,false
+495,hdaeldq,Turkish,expensive,Sutton Place,21:54,1.2,false
+496,mjerranddr,Indian,medium,Sutton Place,22:54,3.3,true
+497,bgarrattyds,Turkish,cheap,Nolita,22:41,2.4,false
+498,ttrivettdt,American,cheap,Lower East,20:15,3.7,true
+499,jbollarddu,Greek,expensive,Midtown,20:19,2.3,false
+500,mkerridgedv,Caribbean,expensive,East Village,21:42,4.0,false
+501,wgutselldw,Thai,expensive,West Village,20:17,1.1,false
+502,cmathissendx,Vietnamese,expensive,Hell's Kitchen,23:51,2.7,true
+503,lkadwalliderdy,Moroccan,medium,Midtown,22:54,2.1,true
+504,wtowndz,Vietnamese,medium,Lower East,20:49,2.0,false
+505,dhawkere0,Mexican,cheap,Soho,20:14,1.9,false
+506,eventrise1,Mediterranean,medium,Noho,18:49,4.2,true
+507,tbrume2,American,medium,Nolita,19:09,2.2,true
+508,jcatlinge3,Moroccan,medium,Little Italy,18:36,4.0,false
+509,bessbergere4,French,cheap,Greenwich Village,21:47,4.0,false
+510,cbrahmere5,Chinese,cheap,Morningside Heights,20:42,3.1,false
+511,jthomassete6,Caribbean,expensive,Midtown,23:12,2.3,true
+512,vhastewelle7,British,cheap,Staten Island,18:15,2.4,false
+513,askoofe8,Moroccan,medium,Koreatown,22:25,1.2,false
+514,aplewse9,Japanese,cheap,Upper East,22:28,1.4,true
+515,mpottesea,Mexican,cheap,Lincoln Square,23:50,2.6,false
+516,edelbouxeb,British,expensive,Lincoln Square,20:06,1.8,false
+517,awalkeyec,Thai,expensive,Upper West,18:15,4.0,false
+518,mhanbridgeed,Turkish,cheap,Soho,23:30,4.4,false
+519,athemannee,Greek,medium,Upper East,23:01,4.5,true
+520,hgulstonef,American,medium,Little Italy,18:51,3.7,false
+521,atregeaeg,Chinese,medium,Upper West,22:09,3.0,false
+522,mneesoneh,Vietnamese,expensive,Hell's Kitchen,19:45,3.5,true
+523,hshoebrookei,Turkish,cheap,East Village,21:21,2.5,true
+524,ihaddowej,Moroccan,expensive,Harlem,22:09,1.8,true
+525,jibelek,Vietnamese,expensive,NoMad,19:41,2.4,false
+526,tpoulglaisel,British,medium,Tribeca,22:19,4.6,true
+527,cchongem,Mexican,cheap,Gramercy,21:35,4.4,true
+528,clusheyen,Italian,expensive,East Village,20:26,4.8,false
+529,ssimonicheo,Indian,expensive,Noho,23:27,2.8,true
+530,kpretiousep,French,medium,Upper East,22:54,2.3,true
+531,kpearsoneq,Greek,expensive,West Village,19:27,4.4,false
+532,rdonalsoner,American,medium,Noho,18:30,1.7,true
+533,kficklinges,Greek,expensive,Noho,23:26,1.6,false
+534,msaytonet,Italian,cheap,Bronx,23:50,4.1,true
+535,whartrickeu,Chinese,cheap,Upper West,23:13,3.0,false
+536,aribbonev,American,cheap,East Village,23:07,1.5,false
+537,cgribbellew,Caribbean,medium,Noho,22:13,2.4,true
+538,fstubbinex,Moroccan,cheap,Lower East,22:16,4.5,true
+539,jviceey,Italian,expensive,Upper West,22:47,1.6,false
+540,lpilsworthez,Indian,medium,Hell's Kitchen,23:27,4.3,false
+541,evorleyf0,Turkish,medium,Lincoln Square,18:04,4.9,true
+542,iharvisonf1,British,expensive,Midtown,20:55,3.7,true
+543,tcoucherf2,Thai,cheap,Chinatown,19:03,1.0,false
+544,kantonyf3,American,medium,Noho,18:26,3.2,true
+545,ablenkharnf4,Caribbean,cheap,Times Square,21:09,2.4,true
+546,csentinellaf5,French,cheap,Noho,21:27,3.0,false
+547,vdolohuntyf6,American,medium,Koreatown,18:20,2.0,false
+548,ofordycef7,Japanese,expensive,Greenwich Village,23:46,5.0,true
+549,drichmondf8,Indian,medium,West Village,19:04,1.5,false
+550,dmarlef9,Turkish,cheap,Tribeca,20:33,2.0,false
+551,xdooherfa,Thai,medium,West Village,20:22,2.4,false
+552,cgrayshanfb,Greek,cheap,Midtown,18:30,3.0,false
+553,lipsleyfc,Thai,cheap,Greenwich Village,22:12,2.0,true
+554,csabinfd,Indian,medium,Upper West,21:13,4.0,true
+555,fbowlandfe,Mexican,medium,Bronx,22:09,1.8,false
+556,mcoyettff,Chinese,cheap,Morningside Heights,21:57,4.7,true
+557,hphilipardfg,Indian,expensive,Gramercy,21:40,2.3,true
+558,mvasyutochkinfh,Japanese,cheap,Koreatown,22:29,3.1,false
+559,jdunkfi,French,expensive,Lower East,22:51,4.2,false
+560,spasqualefj,American,expensive,Brooklyn,19:18,3.1,false
+561,rgirardeyfk,Mexican,medium,Queens,20:06,1.3,true
+562,pcuffleyfl,Vietnamese,medium,Tribeca,22:25,2.2,true
+563,canyonfm,Chinese,medium,Noho,22:58,2.2,false
+564,ahavilefn,Japanese,medium,Morningside Heights,22:47,4.4,false
+565,wmcauslenefo,Mexican,cheap,Upper East,18:32,2.8,false
+566,arawefp,French,expensive,Sutton Place,23:55,2.4,false
+567,ksummerellfq,Indian,expensive,Sutton Place,21:00,2.6,false
+568,dbrownceyfr,Mexican,expensive,Hell's Kitchen,23:48,3.2,false
+569,ahazlewoodfs,Greek,medium,Staten Island,19:25,1.1,true
+570,rolliveft,Italian,medium,Morningside Heights,22:17,2.8,true
+571,nmannaghfu,Italian,expensive,Chinatown,20:44,1.6,false
+572,ocarekfv,Spanish,cheap,Chelsea,20:35,2.2,true
+573,tascraftfw,Mexican,cheap,Soho,19:28,3.1,false
+574,ccockerhamfx,Italian,medium,Brooklyn,21:29,1.6,true
+575,dmonardfy,Mexican,cheap,Noho,23:24,2.4,false
+576,jwoollendsfz,Mediterranean,medium,Little Italy,18:43,4.8,true
+577,borumg0,Spanish,expensive,Greenwich Village,21:15,4.9,false
+578,cferreg1,French,medium,Staten Island,23:42,3.5,false
+579,nplessingg2,Mexican,medium,Harlem,21:48,4.4,false
+580,tvoadeng3,British,expensive,Queens,18:35,1.3,true
+581,glaughnang4,Caribbean,expensive,Chinatown,22:10,4.6,false
+582,efaldog5,Caribbean,expensive,Little Italy,21:54,3.3,false
+583,pgemellig6,American,expensive,Little Italy,19:08,4.7,true
+584,cbickleyg7,Thai,expensive,Upper West,20:34,4.4,false
+585,wpharrowg8,Japanese,expensive,Little Italy,21:52,2.8,true
+586,wcordeg9,American,expensive,East Village,22:10,3.8,true
+587,alehmannga,Chinese,medium,Hell's Kitchen,22:55,3.7,true
+588,pstobbsgb,Italian,medium,Greenwich Village,21:05,1.4,false
+589,ecubbinogc,Moroccan,expensive,Gramercy,19:44,1.9,false
+590,bbladesmithgd,French,expensive,Little Italy,18:42,2.9,false
+591,cwhitehurstge,Mediterranean,expensive,Noho,23:33,2.5,true
+592,tsquiergf,Spanish,cheap,Bronx,21:17,4.8,false
+593,cchilderhousegg,Thai,medium,Financial District,20:26,3.5,true
+594,sdreiergh,Japanese,cheap,Midtown,20:02,3.7,false
+595,spercevalgi,British,medium,East Village,22:03,4.7,true
+596,lleverettgj,Italian,expensive,Midtown,18:55,3.2,true
+597,sdyzartgk,Chinese,expensive,Tribeca,20:11,3.9,true
+598,bsignoretgl,Indian,expensive,Koreatown,20:36,4.8,true
+599,pkigelmangm,Thai,cheap,Financial District,23:53,1.5,true
+600,rloachegn,Spanish,expensive,Upper West,23:15,1.4,false
+601,cmaccauleygo,French,cheap,Staten Island,20:50,4.6,true
+602,abucklesgp,Mexican,expensive,Chelsea,22:08,1.7,true
+603,vledrungq,Mexican,expensive,Bronx,21:30,2.5,false
+604,ktrulockgr,Chinese,cheap,Nolita,20:53,4.2,false
+605,bgaytergs,American,expensive,Upper West,20:13,1.9,true
+606,ivizardgt,Thai,medium,Noho,19:07,3.8,false
+607,jwhiscardgu,Italian,expensive,Sutton Place,23:42,4.0,false
+608,cfrantsevgv,Mexican,cheap,Chelsea,18:14,1.4,true
+609,zweatherdongw,Moroccan,medium,Hell's Kitchen,22:21,3.9,false
+610,bizakofgx,Chinese,cheap,Greenwich Village,20:42,2.5,true
+611,dkirvingy,Mediterranean,cheap,NoMad,18:13,2.4,false
+612,vissacgz,American,expensive,Bronx,21:57,4.9,false
+613,edenerleyh0,Mediterranean,cheap,Chelsea,20:30,3.9,false
+614,vheinemannh1,Spanish,cheap,Soho,22:51,2.5,false
+615,ktaptonh2,Chinese,expensive,Chinatown,23:15,1.7,true
+616,wstribblingh3,Moroccan,medium,Upper East,20:15,1.5,false
+617,jbuyersh4,Mediterranean,medium,Gramercy,22:10,1.8,false
+618,rfiggh5,British,cheap,Upper West,22:18,3.3,false
+619,gmedgewickh6,Japanese,medium,Brooklyn,23:05,4.0,true
+620,croxbroughh7,American,expensive,Bronx,23:06,4.5,true
+621,djennaroyh8,Thai,cheap,Morningside Heights,21:46,4.2,false
+622,lcowtherdh9,Indian,cheap,Lower East,23:31,3.9,true
+623,jrycroftha,American,expensive,West Village,21:30,1.4,true
+624,bbrydellhb,American,expensive,West Village,23:48,4.3,true
+625,tlipphc,Thai,expensive,Lower East,19:26,1.6,true
+626,cstreetfieldhd,British,expensive,Upper East,22:24,2.5,false
+627,sdaintreehe,Thai,medium,NoMad,19:37,1.8,true
+628,tgleyhf,Mediterranean,medium,Greenwich Village,20:36,3.9,true
+629,llinckehg,Caribbean,expensive,Murray Hill,20:48,2.5,false
+630,aenburyhh,Mediterranean,cheap,Little Italy,21:30,2.3,true
+631,efisbeyhi,Greek,medium,Midtown,19:40,1.7,false
+632,tmaidenshj,Spanish,medium,Noho,22:58,4.0,false
+633,cborgehk,Caribbean,expensive,Bronx,19:37,4.5,true
+634,snelissenhl,Italian,expensive,Queens,21:11,2.6,true
+635,sstannislawskihm,Chinese,expensive,Morningside Heights,20:57,3.5,true
+636,cnelthorphn,Mexican,cheap,Midtown,21:38,3.3,true
+637,rcrammyho,French,expensive,East Village,21:52,2.1,true
+638,snollihp,Spanish,cheap,Murray Hill,20:47,3.1,true
+639,hboughtwoodhq,Caribbean,medium,NoMad,20:53,3.7,false
+640,vtottmanhr,Caribbean,expensive,Lincoln Square,21:53,3.4,true
+641,lstopfordhs,Indian,medium,Little Italy,18:01,1.9,false
+642,jgillespieht,Indian,expensive,Tribeca,20:33,1.2,false
+643,nkendallhu,Thai,cheap,Lower East,22:24,1.1,true
+644,rbickerhv,Thai,cheap,Soho,18:08,4.3,false
+645,acestardhw,Spanish,medium,Hell's Kitchen,20:32,4.1,false
+646,jparishhx,Caribbean,expensive,East Village,22:46,4.2,false
+647,wproudlerhy,Thai,cheap,Little Italy,19:10,4.5,false
+648,ddobrovolskihz,Indian,expensive,West Village,22:04,3.5,true
+649,ggisbornei0,Thai,cheap,Tribeca,21:24,3.9,false
+650,dnapieri1,Turkish,medium,NoMad,20:11,1.4,false
+651,fcleariei2,British,expensive,Times Square,23:05,3.7,false
+652,grobkeri3,French,cheap,Noho,21:22,1.4,true
+653,agrossi4,American,cheap,Times Square,21:14,3.5,false
+654,hwenningtoni5,Japanese,expensive,Times Square,20:22,3.4,true
+655,aauguri6,Vietnamese,medium,Harlem,18:42,1.8,false
+656,eblacketi7,Italian,medium,Staten Island,19:51,3.5,false
+657,nmethringhami8,Spanish,medium,Lincoln Square,21:57,2.6,false
+658,hjowlingi9,Mexican,cheap,NoMad,18:42,3.7,false
+659,beinchcombeia,Mexican,cheap,Sutton Place,20:04,1.0,true
+660,nyurinovib,Greek,cheap,Harlem,22:55,4.5,true
+661,gjakubovitchic,Vietnamese,expensive,Queens,21:17,1.2,false
+662,vfawderyid,French,cheap,Little Italy,22:38,3.9,true
+663,jpesterfieldie,Mexican,cheap,Times Square,21:06,1.5,false
+664,jragateif,French,medium,Greenwich Village,21:02,3.0,false
+665,jkehriig,Vietnamese,cheap,Noho,21:55,3.4,true
+666,dseeviourih,Spanish,expensive,Staten Island,22:58,2.4,false
+667,cnannii,British,medium,Morningside Heights,22:04,4.2,false
+668,psebrensij,Spanish,medium,Brooklyn,20:11,2.2,true
+669,egreatbachik,Turkish,cheap,East Village,23:26,1.4,false
+670,gbutfieldil,Turkish,cheap,NoMad,19:19,1.9,false
+671,bmcartim,American,medium,Midtown,20:43,2.5,true
+672,htremolieresin,Italian,medium,NoMad,18:27,2.6,false
+673,cgorussoio,Indian,medium,Murray Hill,18:47,2.1,false
+674,sguillotip,Spanish,cheap,Queens,21:41,3.1,false
+675,sgoutiq,Greek,cheap,Tribeca,21:32,4.1,false
+676,athurlowir,Mexican,cheap,Staten Island,22:05,1.8,true
+677,rgendersis,Indian,expensive,Nolita,22:34,1.4,false
+678,yduffieldit,Spanish,expensive,Little Italy,22:27,1.2,true
+679,bthorneyworkiu,Greek,cheap,Upper East,22:56,2.7,true
+680,jerdesiv,Thai,cheap,Tribeca,23:23,5.0,false
+681,crustedgeiw,Vietnamese,expensive,East Village,19:09,1.8,true
+682,lgashionix,Moroccan,expensive,Upper West,23:29,3.5,true
+683,kplattsiy,Mexican,cheap,Gramercy,21:07,3.4,true
+684,cgregorattiiz,Caribbean,cheap,Staten Island,23:39,3.2,true
+685,hsweetnamj0,British,medium,Lower East,19:49,2.9,false
+686,oburghallj1,Chinese,expensive,Upper West,20:34,4.0,false
+687,mpeggj2,Greek,cheap,Little Italy,19:12,2.9,false
+688,epinshonj3,Vietnamese,cheap,Harlem,23:58,3.2,false
+689,egrichukhanovj4,Vietnamese,cheap,Upper West,21:44,1.1,true
+690,iestcotj5,Greek,cheap,Bronx,20:59,3.0,false
+691,cfranchionij6,Moroccan,medium,Brooklyn,18:26,2.6,true
+692,ptrumperj7,French,medium,Soho,22:33,3.9,true
+693,rvickarmanj8,British,cheap,Greenwich Village,21:34,2.0,false
+694,clayzellj9,American,medium,Morningside Heights,21:40,4.4,true
+695,iogglebieja,Spanish,cheap,Murray Hill,19:59,2.1,false
+696,yblizardjb,Spanish,medium,Brooklyn,20:55,1.6,true
+697,rgladerjc,Greek,cheap,Greenwich Village,19:32,2.9,true
+698,hbetchleyjd,French,expensive,Lower East,23:55,4.4,true
+699,smussolinije,Chinese,medium,Little Italy,22:14,4.4,true
+700,dbrecknalljf,Vietnamese,medium,Morningside Heights,23:30,2.8,false
+701,rgingeljg,Mexican,expensive,West Village,22:33,1.3,false
+702,nchasmoorjh,British,expensive,Midtown,23:55,3.0,false
+703,mlefeuvreji,Indian,expensive,Times Square,21:42,2.1,false
+704,epartenerjj,Mediterranean,medium,Greenwich Village,20:51,2.3,true
+705,hogbournejk,French,medium,Tribeca,22:28,1.4,false
+706,gchallenerjl,British,cheap,Times Square,22:47,3.2,true
+707,kwolffersjm,Spanish,cheap,Koreatown,21:01,3.2,false
+708,jtiltjn,Turkish,expensive,Midtown,18:00,3.5,false
+709,smatignonjo,Spanish,medium,Times Square,18:18,3.6,true
+710,ajablonskijp,American,cheap,Staten Island,23:41,1.6,false
+711,lhaylandsjq,Japanese,medium,Times Square,19:11,3.9,false
+712,cfarnonjr,Moroccan,medium,Chinatown,20:51,4.4,false
+713,dbickerdikejs,American,cheap,Bronx,19:36,1.3,false
+714,dstobbiejt,Indian,expensive,Times Square,23:56,3.1,true
+715,pcluderayju,Indian,cheap,Tribeca,19:15,1.8,true
+716,dmillejv,French,medium,Lower East,23:57,4.5,true
+717,ngrundonjw,Spanish,medium,Morningside Heights,19:13,1.9,false
+718,druoffjx,Mediterranean,medium,Greenwich Village,22:46,4.4,true
+719,fpashbajy,Mediterranean,cheap,Noho,23:53,3.1,true
+720,ctitcumbjz,Japanese,expensive,Hell's Kitchen,22:18,4.8,false
+721,tchaldecottk0,Indian,medium,Tribeca,20:10,3.3,true
+722,rmcgaraghank1,American,medium,Chelsea,20:21,3.1,false
+723,ecapelenk2,Indian,cheap,Koreatown,22:11,1.4,true
+724,ndarlassonk3,Mediterranean,cheap,East Village,18:54,4.4,false
+725,nspirk4,Vietnamese,expensive,Lower East,21:28,3.1,true
+726,flegueyk5,Turkish,expensive,Chinatown,23:12,3.8,true
+727,fseink6,Moroccan,medium,NoMad,19:12,4.1,false
+728,akarolyk7,Mediterranean,expensive,NoMad,22:44,2.3,false
+729,qkeenk8,Mexican,medium,Murray Hill,21:06,3.6,false
+730,yscamwellk9,Indian,medium,Koreatown,21:06,4.2,false
+731,oraccioka,Chinese,cheap,Lincoln Square,22:59,2.8,false
+732,vglasbeykb,Japanese,expensive,Upper West,23:32,1.1,false
+733,dschindlerkc,Japanese,expensive,Upper East,21:34,4.3,true
+734,sthomtsonkd,French,medium,Midtown,20:35,2.9,false
+735,cdonkeke,Mexican,cheap,Midtown,21:24,2.7,false
+736,cquaifkf,Turkish,cheap,Queens,21:21,2.7,true
+737,mbroxiskg,Mexican,expensive,Murray Hill,23:49,1.9,true
+738,scarefullkh,French,medium,Times Square,21:39,2.6,false
+739,mkleinsternki,Italian,cheap,West Village,23:44,3.0,true
+740,ffluxkj,Caribbean,medium,West Village,22:51,4.6,true
+741,brummerykk,Mediterranean,medium,Chinatown,20:32,3.5,true
+742,fmantrippkl,Indian,cheap,Little Italy,23:06,2.3,false
+743,cwantkm,British,expensive,Bronx,21:41,4.5,true
+744,dpetrukn,French,expensive,Chinatown,20:38,3.0,true
+745,tbaldrickko,Mexican,cheap,Noho,20:29,1.9,false
+746,rmorinkp,Caribbean,expensive,Soho,21:01,2.4,true
+747,cmcrorykq,Mediterranean,cheap,Hell's Kitchen,20:12,3.9,true
+748,zmccoykr,Caribbean,medium,Greenwich Village,21:36,4.3,false
+749,crickardesks,Indian,medium,Nolita,19:50,4.8,false
+750,eheersemakt,Chinese,cheap,Koreatown,20:38,4.5,false
+751,kclarridgeku,Moroccan,cheap,Nolita,19:55,3.7,true
+752,khovykv,Mexican,expensive,Staten Island,21:08,4.8,true
+753,jbjerkankw,Mexican,medium,West Village,18:09,4.5,true
+754,sahrendkx,Turkish,medium,Midtown,22:40,2.5,true
+755,mdimmackky,Japanese,expensive,Financial District,18:04,1.7,true
+756,rfranciskiewiczkz,Turkish,cheap,NoMad,23:14,3.6,false
+757,bmcawl0,Japanese,medium,Harlem,18:06,5.0,true
+758,hhouseleyl1,Greek,cheap,Financial District,20:56,3.3,true
+759,itschieraschel2,French,expensive,Murray Hill,21:32,3.0,false
+760,zstandbrookel3,Turkish,medium,Upper East,23:37,4.9,true
+761,fspratleyl4,Spanish,cheap,East Village,23:20,4.6,false
+762,owhitlawl5,Moroccan,medium,Chinatown,20:01,1.6,false
+763,mhexuml6,Mexican,expensive,Soho,23:26,4.6,true
+764,ewaliszekl7,Chinese,expensive,Little Italy,23:30,3.6,false
+765,sshallikerl8,Moroccan,medium,Chinatown,20:11,3.2,false
+766,asmallshawl9,Turkish,cheap,Midtown,18:50,3.4,false
+767,hledinghamla,Greek,expensive,Queens,19:52,2.7,true
+768,rconkeylb,British,expensive,Lower East,21:47,1.2,false
+769,fblainlc,American,cheap,East Village,23:27,4.9,true
+770,mbaldonild,American,expensive,Upper East,23:48,4.2,true
+771,wscogginle,British,medium,Harlem,18:54,3.2,true
+772,jdallistonlf,American,medium,Midtown,20:27,1.5,false
+773,cvosslg,Moroccan,cheap,Harlem,23:41,3.7,true
+774,ccowilllh,French,medium,Nolita,22:39,2.6,true
+775,ikayli,French,expensive,Koreatown,23:15,3.4,false
+776,fhenzelj,Mediterranean,cheap,Financial District,22:58,3.6,false
+777,kguilderlk,Indian,cheap,Upper East,21:49,4.3,false
+778,achelamll,British,expensive,East Village,20:45,3.0,true
+779,ghanselm,Thai,expensive,Koreatown,20:06,4.3,false
+780,abrayfordln,Moroccan,medium,Tribeca,23:39,3.6,false
+781,tomearalo,Mediterranean,expensive,Tribeca,19:05,4.1,false
+782,nlygoelp,Greek,cheap,Upper East,18:58,3.5,false
+783,jbeardlq,Indian,expensive,Chelsea,20:10,3.0,false
+784,ldallicottlr,Greek,medium,Staten Island,19:38,4.6,true
+785,lriachls,Mediterranean,expensive,Bronx,22:27,1.3,true
+786,rfraneylt,Moroccan,expensive,Times Square,21:31,4.5,true
+787,darnattlu,Chinese,cheap,Hell's Kitchen,18:29,1.9,false
+788,mocorrlv,Mediterranean,medium,Financial District,20:53,2.2,false
+789,ebendiglw,Greek,medium,Lower East,23:27,1.5,false
+790,tgreensittlx,Thai,cheap,Nolita,23:19,3.1,true
+791,gglenisterly,Mexican,expensive,NoMad,22:49,3.6,false
+792,divonslz,Mediterranean,cheap,Tribeca,18:39,3.1,true
+793,vbarsamm0,Indian,expensive,NoMad,20:30,1.1,true
+794,dhilldrupm1,Chinese,cheap,Greenwich Village,19:09,1.7,true
+795,rvenesm2,Italian,medium,Midtown,20:23,2.6,true
+796,mveracruyssem3,Indian,expensive,Koreatown,21:17,1.8,false
+797,lhellism4,British,expensive,Sutton Place,20:12,2.1,true
+798,sdmytrykm5,British,medium,Chinatown,23:02,5.0,false
+799,mdegliabbatim6,Italian,medium,Upper East,23:41,1.4,false
+800,mbradneckm7,British,medium,Staten Island,22:07,2.1,true
+801,flidsterm8,Mediterranean,medium,East Village,18:17,4.6,false
+802,ocollopm9,Mexican,expensive,Harlem,22:55,4.5,false
+803,pspellesyma,Spanish,expensive,Lincoln Square,19:53,4.0,true
+804,hmorlingmb,Turkish,medium,Upper East,22:17,2.2,false
+805,ckainmc,Turkish,medium,Sutton Place,22:36,3.7,true
+806,dfrankenmd,Spanish,medium,West Village,19:04,4.7,true
+807,croastme,British,expensive,Queens,20:02,2.7,true
+808,gpreuvostmf,American,cheap,Gramercy,22:44,1.1,false
+809,cislesmg,Spanish,expensive,Chinatown,22:56,3.4,false
+810,coharemh,Mexican,expensive,Soho,21:58,2.0,false
+811,thalegarthmi,Vietnamese,medium,East Village,18:50,2.0,true
+812,umcnairmj,Chinese,medium,Greenwich Village,19:30,3.3,true
+813,bbalaammk,Mexican,cheap,Lincoln Square,22:10,1.8,false
+814,nmushetml,Caribbean,cheap,Koreatown,22:54,4.2,true
+815,ahamsheremm,French,expensive,Chinatown,18:23,2.8,false
+816,pwellesleymn,Chinese,cheap,NoMad,21:15,1.1,true
+817,kmaccaguemo,Indian,expensive,NoMad,19:07,4.7,true
+818,gmathelinmp,Greek,medium,Hell's Kitchen,22:32,3.3,true
+819,echesneymq,Spanish,cheap,Noho,19:49,4.8,true
+820,zmclaymr,Greek,cheap,Upper West,20:17,1.4,true
+821,djarretms,American,medium,Upper West,23:45,4.5,false
+822,sbremenmt,Mediterranean,expensive,Noho,22:45,1.7,true
+823,ljaniakmu,Mediterranean,medium,West Village,18:32,1.6,true
+824,hdrustmv,Thai,medium,Morningside Heights,21:53,1.6,true
+825,mlangdonmw,Thai,cheap,Bronx,19:21,4.7,false
+826,ngillivriemx,Moroccan,medium,Hell's Kitchen,21:31,3.2,true
+827,gwallettmy,American,expensive,Upper West,19:56,3.0,true
+828,pfarrermz,Vietnamese,expensive,Financial District,19:55,2.8,false
+829,kbulfootn0,French,expensive,Upper West,23:49,2.0,true
+830,ejosskovizn1,French,cheap,Gramercy,22:21,4.2,false
+831,jvassen2,Mexican,expensive,Soho,21:30,3.8,true
+832,amoensn3,Greek,cheap,Staten Island,18:29,3.6,true
+833,gseatern4,Mexican,cheap,West Village,19:36,4.9,true
+834,mdreakinn5,Indian,expensive,Upper West,19:12,4.5,false
+835,dcammackn6,British,expensive,Greenwich Village,20:02,4.2,true
+836,phewesn7,Chinese,expensive,West Village,20:08,1.5,false
+837,pkeamn8,Chinese,expensive,East Village,20:41,4.7,false
+838,beglinn9,Turkish,expensive,Upper East,18:17,4.0,true
+839,twraggena,Chinese,medium,Times Square,21:37,1.2,false
+840,aconradnb,Caribbean,cheap,Brooklyn,18:54,2.6,false
+841,gvannenc,Mediterranean,medium,Chinatown,20:25,2.5,false
+842,ascandrettnd,Italian,cheap,West Village,22:08,1.1,true
+843,bridoutne,Moroccan,expensive,Chinatown,22:11,3.7,false
+844,hmillimoenf,French,cheap,Soho,22:43,2.7,true
+845,jyannikovng,Greek,medium,Sutton Place,22:15,2.2,false
+846,amagognh,Thai,expensive,Hell's Kitchen,18:32,3.9,true
+847,llembrickni,Mexican,medium,Tribeca,19:24,1.9,false
+848,nmomfordnj,Vietnamese,expensive,Harlem,18:16,2.5,false
+849,qellumnk,Indian,cheap,Gramercy,22:55,3.3,true
+850,saudenisnl,British,expensive,Upper West,20:39,3.1,true
+851,nluxennm,Chinese,cheap,Upper West,21:58,2.7,true
+852,btilburynn,Chinese,medium,Brooklyn,18:12,2.1,false
+853,araecroftno,Mediterranean,medium,Little Italy,19:06,2.7,false
+854,dlindemannp,British,cheap,Koreatown,18:22,1.0,true
+855,gdenknq,Vietnamese,expensive,Harlem,19:24,4.7,true
+856,sbrendnr,Vietnamese,cheap,Koreatown,20:13,2.9,false
+857,emortns,Greek,expensive,Chelsea,18:16,2.2,false
+858,esavegent,Vietnamese,medium,Bronx,20:44,3.0,true
+859,rlamminamnu,American,expensive,Sutton Place,22:26,1.1,false
+860,cmorsonnv,Spanish,medium,Greenwich Village,19:15,1.2,false
+861,hdadsonnw,British,cheap,Midtown,20:24,3.2,true
+862,wlehriannx,Spanish,cheap,Hell's Kitchen,21:40,3.0,false
+863,gbremingny,Mexican,medium,Chinatown,22:29,1.1,false
+864,fcrollmannz,Japanese,medium,Chinatown,23:53,4.2,false
+865,rlartero0,Japanese,cheap,Financial District,20:17,1.2,true
+866,cgullamo1,Mediterranean,cheap,Tribeca,19:38,3.4,false
+867,granyo2,Thai,medium,Midtown,21:52,4.4,true
+868,ggallifonto3,Spanish,expensive,Harlem,19:14,2.2,true
+869,egosnallo4,Mediterranean,medium,Lower East,23:44,2.5,false
+870,jmannagho5,Greek,expensive,Queens,19:44,3.3,false
+871,dterramo6,Thai,cheap,Upper West,20:48,4.1,true
+872,emcivero7,Mexican,expensive,Brooklyn,21:19,2.7,true
+873,jbecketto8,American,medium,Tribeca,20:49,4.6,true
+874,pgaynoro9,Caribbean,expensive,Harlem,18:06,1.6,true
+875,kotimonyoa,Greek,expensive,Nolita,22:26,1.5,true
+876,sropertob,Mediterranean,cheap,West Village,21:38,3.1,false
+877,galbanoc,Chinese,expensive,Gramercy,18:20,2.2,true
+878,bgeytonod,Turkish,expensive,Times Square,18:56,3.7,false
+879,rputleyoe,Vietnamese,cheap,Financial District,22:20,2.5,true
+880,tgerardeauxof,Spanish,expensive,Staten Island,18:30,2.8,false
+881,sfacherog,Vietnamese,expensive,Financial District,23:08,1.5,false
+882,hdrewetoh,Vietnamese,cheap,Chelsea,20:30,3.8,true
+883,sriggoi,Japanese,medium,Upper East,21:17,3.3,false
+884,lbalkeoj,American,medium,Financial District,22:50,4.0,true
+885,melkinsok,Mediterranean,cheap,Morningside Heights,23:14,2.5,false
+886,msedgemoreol,French,expensive,Tribeca,21:45,2.4,false
+887,cmcilrathom,Moroccan,cheap,Soho,20:28,2.2,false
+888,vhainson,Greek,cheap,Brooklyn,23:07,2.6,true
+889,ncrossthwaiteoo,Italian,medium,Staten Island,20:43,2.5,true
+890,bmoizerop,Caribbean,expensive,East Village,23:34,2.1,true
+891,scelleroq,British,medium,Morningside Heights,20:53,4.5,true
+892,swinspearor,Spanish,expensive,Koreatown,22:00,4.1,true
+893,wmossos,Chinese,expensive,Noho,21:48,2.0,false
+894,gtasselot,Spanish,medium,Times Square,20:18,1.9,false
+895,lwilcotou,Vietnamese,medium,Queens,23:28,1.6,false
+896,bnorthcoteov,Vietnamese,medium,Financial District,19:04,4.7,false
+897,nrocksow,Caribbean,cheap,Murray Hill,22:51,1.9,true
+898,cknewstubbox,Mexican,expensive,Lincoln Square,23:34,4.8,false
+899,enimmooy,Italian,cheap,Chelsea,23:37,2.2,true
+900,tfuentesoz,Moroccan,medium,Times Square,20:20,4.9,false
+901,wloggp0,Mexican,cheap,Chelsea,20:35,5.0,true
+902,hbailyp1,Chinese,medium,Noho,23:36,2.5,false
+903,rnenop2,French,cheap,East Village,23:37,1.5,false
+904,hswantonp3,American,expensive,NoMad,23:40,1.8,false
+905,dtatemp4,Mediterranean,expensive,Times Square,22:49,3.6,true
+906,nrammellp5,Greek,cheap,Morningside Heights,18:15,3.6,true
+907,skeepingp6,Turkish,medium,Little Italy,19:51,3.5,false
+908,sconboyp7,American,expensive,Little Italy,20:03,1.5,false
+909,snootp8,Thai,medium,East Village,20:11,4.4,true
+910,arittelmeyerp9,Mediterranean,cheap,Lincoln Square,18:27,4.7,false
+911,icolthardpa,Moroccan,expensive,Queens,21:35,2.3,false
+912,dhoviepb,Indian,medium,Little Italy,19:32,4.6,true
+913,lstreetonpc,Thai,medium,West Village,23:24,3.2,false
+914,mlindenblattpd,Turkish,expensive,Chelsea,22:04,2.7,true
+915,cgobelpe,French,medium,Greenwich Village,20:00,3.1,true
+916,jslowleypf,Greek,medium,West Village,22:33,3.2,false
+917,twingeatpg,British,expensive,Midtown,20:47,3.5,false
+918,rwharbyph,Mediterranean,cheap,Greenwich Village,19:25,4.0,false
+919,ssindersonpi,Japanese,cheap,Upper East,19:29,2.3,true
+920,kspohrpj,Italian,medium,Murray Hill,18:22,3.0,false
+921,jcastardpk,Caribbean,medium,Gramercy,23:24,1.1,false
+922,djoseferpl,Mexican,cheap,Noho,21:23,1.0,false
+923,wreidshawpm,Mediterranean,cheap,Midtown,19:42,4.4,false
+924,spleypn,Turkish,medium,Upper West,18:20,3.6,true
+925,ygilstonpo,Italian,cheap,East Village,20:38,2.9,false
+926,cpinnpp,Caribbean,expensive,Upper West,23:18,2.2,true
+927,hgamagepq,Thai,expensive,Soho,19:56,3.6,true
+928,sstatefieldpr,French,medium,Harlem,19:03,3.8,false
+929,jlorrainps,Mexican,medium,Greenwich Village,23:02,3.9,false
+930,bstanesbypt,Mexican,cheap,Upper West,18:00,3.7,false
+931,pwolseypu,Chinese,expensive,Chelsea,18:25,2.4,true
+932,obuckleepv,Chinese,expensive,NoMad,18:43,2.6,false
+933,bcutrisspw,Turkish,cheap,Tribeca,20:24,4.7,true
+934,tsimmankpx,Greek,medium,Noho,21:27,4.8,false
+935,ogerratypy,Vietnamese,cheap,NoMad,23:54,1.2,true
+936,tpavlukpz,Indian,medium,Upper East,21:31,1.0,false
+937,denrigoq0,Chinese,expensive,Koreatown,21:50,1.8,false
+938,rhidderleyq1,Japanese,medium,Upper West,20:19,2.4,false
+939,cgierhardq2,Greek,medium,Financial District,20:48,3.4,false
+940,astapletonq3,Vietnamese,medium,West Village,19:04,1.6,true
+941,dwoolfendenq4,Mediterranean,cheap,Midtown,19:47,2.2,true
+942,kstopperq5,Turkish,medium,Lower East,23:45,1.0,true
+943,tlaguerreq6,Italian,cheap,Times Square,20:50,3.1,true
+944,jguirardq7,Chinese,cheap,NoMad,20:40,1.4,true
+945,emuffettq8,Mexican,cheap,Greenwich Village,20:35,4.2,false
+946,basbreyq9,Italian,cheap,Hell's Kitchen,21:31,3.3,false
+947,fdalliwaterqa,Italian,medium,Tribeca,19:21,4.6,false
+948,trhoadesqb,Mexican,cheap,West Village,18:34,2.4,false
+949,cskellorneqc,British,cheap,Lower East,23:15,4.2,true
+950,lrippenqd,Greek,medium,Noho,22:27,1.1,true
+951,mwolverqe,Mediterranean,cheap,Staten Island,22:57,1.0,false
+952,tjandaqf,Mediterranean,cheap,Chelsea,23:05,4.2,true
+953,mpoundsqg,British,expensive,Murray Hill,21:36,2.0,true
+954,druppeliqh,Turkish,medium,Hell's Kitchen,23:26,4.5,true
+955,celsopqi,Mediterranean,expensive,Times Square,21:43,4.8,false
+956,moldroydqj,Thai,cheap,Greenwich Village,23:13,4.0,false
+957,tsiburnqk,Spanish,expensive,West Village,19:38,3.6,false
+958,bshenfishql,Moroccan,cheap,NoMad,22:43,1.3,false
+959,gfotherbyqm,Vietnamese,medium,Financial District,21:48,1.2,false
+960,cbrimblecombeqn,British,medium,Chelsea,22:52,3.3,true
+961,gnodenqo,Mediterranean,cheap,Chinatown,19:48,1.6,true
+962,llinekerqp,Thai,medium,Queens,21:23,1.6,false
+963,emaidlowqq,Vietnamese,medium,East Village,21:54,2.5,true
+964,sberzenqr,Japanese,expensive,Sutton Place,23:09,1.3,false
+965,lnorthcoteqs,Italian,medium,Soho,21:35,2.6,true
+966,abrineqt,Spanish,cheap,East Village,18:23,4.4,true
+967,pbiggadykequ,Mexican,expensive,Queens,23:48,1.0,false
+968,bshearwoodqv,Spanish,cheap,Upper East,18:15,3.1,true
+969,gseefusqw,Indian,medium,Chinatown,21:09,1.9,true
+970,lgoodfelloweqx,French,expensive,Morningside Heights,21:55,1.7,false
+971,rdupreeqy,Greek,cheap,Financial District,18:32,4.0,false
+972,syukhnevichqz,American,expensive,Bronx,19:14,2.3,true
+973,kpourvoieurr0,Japanese,medium,Upper East,18:50,2.1,false
+974,kpucknellr1,Thai,cheap,Lower East,20:01,3.8,false
+975,landrer2,Indian,cheap,East Village,19:29,1.8,false
+976,rbraleyr3,Vietnamese,cheap,Greenwich Village,20:25,3.2,true
+977,ttrubshawer4,French,expensive,Koreatown,18:15,1.6,true
+978,tleperer5,Japanese,medium,Tribeca,19:20,1.9,true
+979,dscholeyr6,Italian,medium,West Village,20:13,2.8,false
+980,cparonir7,Thai,expensive,West Village,19:53,2.0,false
+981,esouthardr8,Caribbean,cheap,West Village,19:09,1.1,true
+982,wschoroderr9,French,cheap,West Village,23:31,4.7,true
+983,sboswellra,Vietnamese,medium,NoMad,22:42,2.4,true
+984,ugianillirb,Vietnamese,expensive,Greenwich Village,20:39,4.0,false
+985,fhingrc,Italian,expensive,Murray Hill,20:33,2.1,false
+986,jcawkillrd,Mexican,cheap,Little Italy,20:24,3.4,false
+987,cveartre,Chinese,cheap,West Village,20:43,4.1,true
+988,vcremenrf,Indian,expensive,Tribeca,22:06,3.7,true
+989,jdegliabbatirg,Greek,medium,Queens,19:39,1.1,false
+990,bclimarrh,Mediterranean,expensive,Gramercy,22:32,4.6,true
+991,hbuessenri,Mediterranean,expensive,Financial District,20:35,3.6,true
+992,rmolineuxrj,Chinese,cheap,Morningside Heights,18:07,1.9,true
+993,gbrotherheadrk,Thai,medium,Greenwich Village,22:16,4.9,false
+994,hsweetlandrl,Chinese,medium,Midtown,23:58,4.2,true
+995,mhambrightrm,Chinese,expensive,Tribeca,18:23,3.4,false
+996,bpoern,Indian,expensive,Gramercy,22:43,3.9,false
+997,clenevero,Indian,medium,Morningside Heights,18:43,4.4,false
+998,gtownshendrp,Moroccan,medium,Nolita,19:34,4.6,false
+999,ilampettrq,Vietnamese,expensive,Little Italy,18:06,2.9,false
+1000,dgeanyrr,Thai,cheap,Upper West,18:54,1.3,false
